@@ -1,4 +1,4 @@
-# Machine-Learningy
+# Machine-Learning
 Welcome to my Machine Learning Repository! This repository serves as a comprehensive resource for understanding different types of machine learning and provides practical example projects to help you grasp the concepts more effectively.
 
 # Table of Contents
