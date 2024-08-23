@@ -7,7 +7,7 @@ This repository is a collection of example projects, and some my projects that c
 
 ## Projects
 1. Supervised Learning
-   - [Example Project] (https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Supervised_Learning_Ex.ipynb)
+   - [Example Project](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Supervised_Learning_Ex.ipynb)
    - Regression
      - Linear Regression
        -[Example Project]([https://pages.github.com/](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Regression/Linear-Regression/California_Housing_Ex.ipynb))
