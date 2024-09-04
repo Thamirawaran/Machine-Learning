@@ -7,14 +7,35 @@ This repository is a collection of example projects, and some my projects that c
 
 ## Projects
 1. Supervised Learning
-   1. [Linear Regression Algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Supervised_Learning_Ex.ipynb)
+   1. [Supervised Learning Algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Supervised_Learning_Ex.ipynb)
    2. Regression
       1. Linear Regression
-         - [Example Project](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Regression/Linear-Regression/California_Housing_Ex.ipynb)
+         - [Linear Regression Algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Regression/Linear-Regression/California_Housing_Ex.ipynb)
+      2. Polynomial Regression
+      3. Ridge Regression
+      4. Lasso Regression
+
+   
    3. Classification
       1. KNN
          - [KNN algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Classification/KNN.ipynb)
+      2. Naive Bayes
+      3. Decision Trees
+      4. Random Forests
+      5. Logistic Regression
+      6. Neural Networks
 3. Unsupervised Learning
+   1. Clustering
+      1. k-Means Clustering
+      2. Hierarchical Clustering
+   2. Dimensionality Reduction
+      1. Principal Component Analysis (PCA)
+      2. t-Distributed Stochastic Neighbor Embedding (t-SNE)
+      3. Autoencoders
+   3. Anomaly Detection
 4. Semi-Supervised Learning
 5. Reinforcement Learning
+   1. Value-Based Methods
+   2. Policy-Based Methods
+   3. Model-Based Methods
 6. Self-Supervised Learning
