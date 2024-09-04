@@ -11,6 +11,9 @@ This repository is a collection of example projects, and some my projects that c
    2. Regression
       1. Linear Regression
          - [Example Project](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Regression/Linear-Regression/California_Housing_Ex.ipynb)
+   3. Classification
+      1. KNN
+         - [KNN algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Classification/KNN.ipynb)
 3. Unsupervised Learning
 4. Semi-Supervised Learning
 5. Reinforcement Learning
