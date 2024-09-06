@@ -22,6 +22,7 @@ This repository is a collection of example projects, and some my projects that c
       2. Naive Bayes
          - [Naive Bayes Classification](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Classification/Naive%20Bayes%20Classification)
       3. Decision Trees
+         - [Decision Trees](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Classification/Decision-Tree)
       4. Random Forests
       5. Logistic Regression
       6. Neural Networks
