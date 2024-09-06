@@ -10,7 +10,7 @@ This repository is a collection of example projects, and some my projects that c
    1. [Supervised Learning Algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Supervised_Learning_Ex.ipynb)
    2. Regression
       1. Linear Regression
-         - [Linear Regression Algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Regression/Linear-Regression/California_Housing_Ex.ipynb)
+         - [Linear Regression Algorithm](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Linear-Regression)
       2. Polynomial Regression
       3. Ridge Regression
       4. Lasso Regression
@@ -18,7 +18,7 @@ This repository is a collection of example projects, and some my projects that c
    
    3. Classification
       1. KNN
-         - [KNN algorithm](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Classification/K%20Nearest%20Neighbor%20classifier)
+         - [KNN algorithm](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Classification/K-Nearest-Neighbors)
       2. Naive Bayes
          - [Naive Bayes Classification](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Classification/Naive%20Bayes%20Classification)
       3. Decision Trees
