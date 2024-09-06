@@ -18,8 +18,9 @@ This repository is a collection of example projects, and some my projects that c
    
    3. Classification
       1. KNN
-         - [KNN algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Classification/KNN.ipynb)
+         - [KNN algorithm](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Classification/K%20Nearest%20Neighbor%20classifier)
       2. Naive Bayes
+         - [Naive Bayes Classification](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Classification/Naive%20Bayes%20Classification)
       3. Decision Trees
       4. Random Forests
       5. Logistic Regression
@@ -27,7 +28,8 @@ This repository is a collection of example projects, and some my projects that c
 3. Unsupervised Learning
    1. Clustering
       1. k-Means Clustering
-      2. Hierarchical Clustering
+         - [K-Means Clustering](https://github.com/Thamirawaran/Machine-Learning/tree/main/Unsupervised-Learning/K-Means%20Clustering)
+      3. Hierarchical Clustering
    2. Dimensionality Reduction
       1. Principal Component Analysis (PCA)
       2. t-Distributed Stochastic Neighbor Embedding (t-SNE)
