@@ -9,6 +9,7 @@ This repository is a collection of example projects, and some my projects that c
 1. Supervised Learning
    1. [Supervised Learning Algorithm](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/supervised_learning_ex.py)
    2. Regression
+      [Regression Notes](https://github.com/Thamirawaran/Machine-Learning/blob/main/Supervised-Learning/Regression.md)
       1. Linear Regression
          - [Linear Regression Algorithm](https://github.com/Thamirawaran/Machine-Learning/tree/main/Supervised-Learning/Linear-Regression)
       2. Polynomial Regression
