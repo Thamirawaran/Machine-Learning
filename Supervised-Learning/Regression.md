@@ -13,7 +13,7 @@ Here, $m_1, m_2$ are coefficients of the first and second powers of the factor
 
 # Performance Metrics
 ## Mean Absolute Error (MAE)
-MAE= \frac{1}{n}{\sum_{i=1}^{n}|x - y|}
+MAE= $\frac{1}{n}{\sum_{i=1}^{n}|x - y|}$
 ## Mean Squared Error (MSE)
 ## Root Mean Squared Error (RMSE)
 ## The Coefficient of Determination (R-squared)
