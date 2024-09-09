@@ -1,13 +1,14 @@
-# Linear Rgression 
+# Regression
+## Linear Rgression 
 Equation $Y = mX + C $
 Here, $Y$ = Target/ Ground truths
       $X$ = Features
 
-# Multiple Linear Regression
+## Multiple Linear Regression
 Equation $Y = m_1X_1 + m_2X_2 + ... + C $
 Here, $X_1, X_2$ are coefficients of features
 
-# Polynomial Regression
+## Polynomial Regression
 Equation $Y = m_1X + m_2X^2 + C$
 Here, $m_1, m_2$ are coefficients of the first and second powers of the factor
 
